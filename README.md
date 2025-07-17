@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&text=Hi%20moosunny's%20GitHub&fontColor=000000&fontSize=70" />
-</div>
-
 ## 👋 안녕하세요, 성장을 최우선 가치로 삼는 AI Engineer 최무선입니다.
 
 
